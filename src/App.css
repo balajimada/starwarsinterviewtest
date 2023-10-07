@@ -47,6 +47,13 @@
    
 }
 
+.searchtextbox
+{
+  padding: 5px;
+  margin-left: 10px;
+  flex: 35%;
+}
+
 label {
   font-weight: bold;
 }
